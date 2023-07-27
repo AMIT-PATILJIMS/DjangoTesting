@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyOrderByArticle",
+    "\\MyOrderByArticle\\OrderByPractice",
+    "\\MyOrderByArticle\\OrderByPractice\\OrderByPractice",
+    "\\MyOrderByArticle\\OrderByPractice\\OrderByPractice\\templates"
+  ],
+  "SelectedNode": "\\MyOrderByArticle\\OrderByPractice\\OrderByPractice\\templates\\ShowEmployeeDetails.html",
+  "PreviewInSolutionExplorer": false
+}
