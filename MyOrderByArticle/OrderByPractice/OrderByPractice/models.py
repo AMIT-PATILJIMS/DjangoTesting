@@ -7,3 +7,4 @@ class EmployeeDetails(models.Model):
 	EmployeeName = models.CharField(max_length=20)
 	EmployeeDepartment = models.CharField(max_length=20, blank=True, null=True)
 	Country = models.CharField(max_length=20, blank=True, null=True)
+	Salary = models.IntegerField(blank=True)

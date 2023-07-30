@@ -15,12 +15,14 @@
 				  <th>EmployeeName</th>
 				  <th>EmployeeDepartment</th>
 				  <th>Country</th>
+				  <th>Salary</th>
 				</tr>
 				{% for user in users %}
 				<tr>
 				  <td>{{user.EmployeeName}}</td>
 				  <td>{{user.EmployeeDepartment}}</td>
 				  <td>{{user.Country}}</td>
+				  <td>{{user.Salary}}</td>
 				</tr>
 				{% endfor %}
 			  </table>
